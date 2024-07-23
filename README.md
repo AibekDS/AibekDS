@@ -1,8 +1,9 @@
-### Hi, I'm Aibek!
+### Hi 👋, I'm Aibek!
 
 👨‍💻 Data Scientist sharing about my journey and learnings in tech<br/>
 👨‍🎓 Studying [Data Science]([https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv](https://www.youtube.com/watch?v=1I9cJ6JH44I)) at the International University of Information Technology, Kazakhstan<br/>
 💭 Currently learning about data Science and [Neural Network]([https://pudding.cool/2018/08/pockets/](https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414))!<br/>
+👾 I am now working on the project "Finding gold deposits through satellite images". Wait for the results ! 🛰<br/>
 
 
 ## 🌐 Socials
